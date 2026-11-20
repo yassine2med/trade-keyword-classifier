@@ -1,0 +1,4 @@
+{
+  "Network": {"wifi": 3, "ethernet": 3, "switch": 3, "router": 3},
+  "Electrical": {"outlet": 3, "breaker": 3, "light": 2}
+}
