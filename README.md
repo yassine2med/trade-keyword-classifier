@@ -2,6 +2,8 @@
 
 # trade-keyword-classifier
 
+[![CI](https://github.com/yassine2med/trade-keyword-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/trade-keyword-classifier/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Maps a free text maintenance description such as "toilet leak under the sink" to a trade (HVAC, Plumbing, Electrical and so on) using weighted keywords. It is a transparent rule scorer: you can see which words matched and change the word list.
 
 ![Screenshot](docs/screenshot.png)
