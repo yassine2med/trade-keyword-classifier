@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="trade-keyword-classifier" width="100%"></p>
+
 # trade-keyword-classifier
 
 Maps a free text maintenance description such as "toilet leak under the sink" to a trade (HVAC, Plumbing, Electrical and so on) using weighted keywords. It is a transparent rule scorer: you can see which words matched and change the word list.
